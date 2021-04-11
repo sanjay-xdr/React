@@ -1,3 +1,6 @@
+<a href="https://adoring-noyce-676d50.netlify.app/" target="_blank"><h2>Link to the project</h2></a>
+
+# A simple project which tells about the season based on the user location
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
