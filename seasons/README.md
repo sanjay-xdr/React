@@ -1,3 +1,4 @@
+<a href="https://adoring-noyce-676d50.netlify.app/"><h2>Link to the project</h2></a>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
